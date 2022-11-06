@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning **JavaScript, HTML, CSS, Java, C**
 
 - 📫 How to reach me **jonathasmelodavid@gmail.com**
+- LinkedIn: https://www.linkedin.com/in/jonathas-david-6429b813b
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
