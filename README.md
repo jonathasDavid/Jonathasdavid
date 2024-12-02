@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jônathas David</h1>
 <h3 align="center">I'm a Computer Science student in the Federal Institute of Goiás</h3>
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, Java, C**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, React, NextJs**
 
 - 📫 How to reach me **jonathasmelodavid@gmail.com**
 - LinkedIn: **https://www.linkedin.com/in/jonathas-david-6429b813b**
