@@ -9,7 +9,7 @@ Product Manager Intern focused on B2B products
   <li>📊 Experience with <strong>Agile Methodologies</strong> (Scrum, Kanban) applied to product development</li>
   <li>🤖 I work with <strong>AI-driven processes</strong> and <strong>automation tools</strong> to improve productivity and decision-making</li>
   <li>📚 I study <strong>Product Management</strong> and <strong>Software Engineering</strong></li>
-  <li>🌱 Currently learning <strong>JavaScript, HTML, CSS, React, Next.js</strong></li>
+  <li>🌱 Have worked with <strong>JavaScript, java, javascript, react, python, django, C.</strong></li>
   <li>💬 Fluent English — I have <strong>teaching experience</strong></li>
 </ul>
 
